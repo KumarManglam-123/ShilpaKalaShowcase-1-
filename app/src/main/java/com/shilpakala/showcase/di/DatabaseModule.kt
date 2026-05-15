@@ -34,7 +34,7 @@ object DatabaseModule {
             AppConstants.DATABASE_NAME
         )
             .openHelperFactory(factory)
-            .fallbackToDestructiveMigration(false)
+            .fallbackToDestructiveMigration()
             .build()
     }
 
