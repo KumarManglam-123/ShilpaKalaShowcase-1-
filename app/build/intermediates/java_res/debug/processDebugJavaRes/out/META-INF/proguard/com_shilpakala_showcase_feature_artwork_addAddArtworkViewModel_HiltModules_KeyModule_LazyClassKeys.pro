@@ -1,0 +1,2 @@
+-keep,allowobfuscation,allowshrinking class com.shilpakala.showcase.feature.artwork.add.AddArtworkViewModel
+-keep,allowobfuscation,allowshrinking class com.shilpakala.showcase.feature.artwork.add.AddArtworkViewModel
