@@ -1,0 +1,33 @@
+# Built outputs
+/build/
+/app/build/
+*.apk
+*.aab
+
+# Gradle
+.gradle/
+*.gradle.kts.bak
+gradle-app.setting
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Local config
+local.properties
+
+# Keystore
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Room schema exports
+/app/schemas/

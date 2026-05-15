@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<paths>
-    <cache-path name="images" path="images/" />
-    <files-path name="profile_photos" path="profile_photos/" />
-    <files-path name="artwork_images" path="artwork_images/" />
-    <files-path name="wip_images" path="wip_images/" />
-    <external-cache-path name="external_images" path="images/" />
-</paths>
